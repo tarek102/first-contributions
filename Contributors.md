@@ -21,6 +21,7 @@
 - [Zachary Murphy](https://github.com/ZacharyJTMurphy)
 - [Raj Agrahari](https://github.com/RajAgrahari)
 - [Muhammad Haris](https://github.com/headlessNode)
+- [Tarek Yosry](https://github.com/tarek102)
 - [Vedang](https://github.com/vedang685)
 - [Ismail Chikh Boubekeur](https://github.com/esmo-ts)
 - [AlexEG](https://github.com/AlexEG)
